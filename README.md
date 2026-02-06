@@ -7,7 +7,7 @@ A Machine Learning project that predicts whether a loan should be approved or re
 
 ## 📌 Project Overview
 
-Loan approval is a common real-world problem for banks and financial institutions. Instead of manually going through all applications, this project uses machine learning to **analyze key applicant information** (such as income, credit history, education, and loan amount) and **predict the loan decision** accurately. :contentReference[oaicite:1]{index=1}
+Loan approval is a common real-world problem for banks and financial institutions. Instead of manually going through all applications, this project uses machine learning to **analyze key applicant information** (such as income, credit history, education, and loan amount) and **predict the loan decision** accurately.
 
 ---
 
@@ -34,3 +34,7 @@ Loan approval is a common real-world problem for banks and financial institution
 
 ## 📂 Repository Structure
 
+- `Final (1).ipynb` – Final notebook with model training and evaluation.
+- `Loan Aprroval Prediction.ipynb` – Main notebook (note: filename contains a spelling mistake).
+- `Loan Prediction.ipynb` – Alternative notebook with EDA and modeling.
+- `README.md` – Project overview and usage notes.
